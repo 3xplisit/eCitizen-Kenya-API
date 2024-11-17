@@ -41,7 +41,7 @@ public function generateSecureHashEcitizen($api_client_id,$ref_no,$api_client_ke
 
 }
 </code>
-
+```
 The Final Secure Hash looks like this
 <code>
 MDY5YTM0NDBlZjAwYTExYjQyODE1ZTE2ZTZiNjVjYWViNzRlNjU3ZTNjZDc4ZTRkMzMwOGQyZjQ5ODA2MjU3OA==
