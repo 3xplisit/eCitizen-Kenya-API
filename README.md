@@ -40,13 +40,17 @@ public function generateSecureHashEcitizen($api_client_id,$ref_no,$api_client_ke
     return $secure_hash;
 
 }
-</code>
 ```
 The Final Secure Hash looks like this
 <code>
 MDY5YTM0NDBlZjAwYTExYjQyODE1ZTE2ZTZiNjVjYWViNzRlNjU3ZTNjZDc4ZTRkMzMwOGQyZjQ5ODA2MjU3OA==
 </code>
 
+<h5>Payment Initiation Request - POST </h5>
+  Production URL - https://payments.ecitizen.go.ke/PaymentAPI/iframev2.1.php
+  Sandbox URL    - https://test.pesaflow.com/PaymentAPI/iframev2.1.php
+
+<p>To initiate an iFrame Request, You need to pass the Following Parameters to the </p>
 
 
 
