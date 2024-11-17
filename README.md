@@ -4,7 +4,7 @@ This Repository offers an insight into eCitizen Payments and how to Integrate eC
 <li> Passport Payment</li>
 <li> County Services Payments</li>
 <li> Renewal of Driving License (More Common)</li>
-
+<br>
 But have you ever thought how the payment iframe Generation happens?
 </p>
 <strong> We shall delve into 3 aspects of the API. </strong>
@@ -24,7 +24,7 @@ But have you ever thought how the payment iframe Generation happens?
 <strong>api_client_id</strong> - This value is assigned to you by the eCitizen Team and is unique for every Client
 <strong>ref_no</strong> - This is a unique value that is generated to identify the Transaction. We can call it a Unique Transaction Ref</p>
 
-<h1> Generating the Secure Hash</h1>
+<h5> Generating the Secure Hash</h5>
 
 <code>
 <?php
