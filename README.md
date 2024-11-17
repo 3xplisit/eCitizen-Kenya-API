@@ -1,4 +1,4 @@
-# eCitizen-Kenya-API
+# eCitizen Kenya API Service
 
 For Support and Integration You can Email me
 <p>Email: jesse.kariuki@softwareske.com</p><br>
