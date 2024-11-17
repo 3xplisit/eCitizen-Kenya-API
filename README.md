@@ -10,9 +10,9 @@ But have you ever thought how the payment iframe Generation happens?
 <strong> We shall delve into 3 aspects of the API. </strong>
 
 <ol>
-<li>1.Generate Secure Hash </li>
-<li>2.Payment Initiation Request</li>
-<li>3.Payment Verification Request </li>
+<li> Generate Secure Hash </li>
+<li> Payment Initiation Request</li>
+<li> Payment Verification Request </li>
 </ol>
 
 <h1> Generate Secure Hash </h1>
