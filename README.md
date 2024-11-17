@@ -19,7 +19,7 @@ But have you ever thought how the payment iframe Generation happens?
 <p> This is not actually an API but more of a Method that Generates the Secure Hash to be passed when requesting the eCitizen Iframe. This Hash is generated and passed as part of the request to indeed confirm that the request originates from a valid user who is recognized by the eCitizen API Engine on the backend.
 </p>
 
-<p>To Generate the Secure Hash You need the <strong>api_client_id</strong>,<strong>ref_no</strong>
+<p>To Generate the Secure Hash You need the following;
 <br>
   <strong>api_client_key</strong> - This value is assigned to you by the eCitizen Team and is Unique for Every Client <br>
 <strong>api_client_id</strong> - This value is assigned to you by the eCitizen Team and is unique for every Client <br>
