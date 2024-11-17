@@ -27,8 +27,9 @@ But have you ever thought how the payment iframe Generation happens?
 
 <h5> Generating the Secure Hash</h5>
 To arrive at the Secure Hash you need to compute a cryptographic hash of a string that contains the api_client_id and the ref_no using the HMAC (Hash-based Message Authentication Code) mechanism with the SHA-256 algorithm.
-<code>
-public function generateSecureHashEcitizen($api_client_id,$ref_no,$api_client_key){
+
+```php
+public function generateSecureHashEcitizen($api_client_id,$ref_no,$api_client_key,$api_client_key){
 
     $datastring     = $api_client_id.$ref_no;
     //Sign the payload with the api_client_key to arrive at the secure_hash
