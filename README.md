@@ -21,7 +21,7 @@ But have you ever thought how the payment iframe Generation happens?
 
 <p>To Generate the Secure Hash You need the <strong>api_client_id</strong>,<strong>ref_no</strong>
 <br>
-  <strong>api_client_key</strong> - This value is assigned to you by the eCitizen Team and is Unique for Every Client
+  <strong>api_client_key</strong> - This value is assigned to you by the eCitizen Team and is Unique for Every Client <br>
 <strong>api_client_id</strong> - This value is assigned to you by the eCitizen Team and is unique for every Client <br>
 <strong>ref_no</strong> - This is a unique value that is generated to identify the Transaction. We can call it a Unique Transaction Ref</p>
 
